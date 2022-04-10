@@ -76,6 +76,13 @@ li {
 #logan-last-li {
     border-radius: 25px;
 }
+#with-love {
+    margin-top: 40px;
+}
+.copyright { 
+    color: #6e93c4;
+    text-align: center;
+}
 
 /* always write these at last, so they are not overridden by any further css */
 @media (max-width: 900px) {
